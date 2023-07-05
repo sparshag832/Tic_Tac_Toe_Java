@@ -86,7 +86,7 @@ public void winGame()
 		xcount++;
 		txtXcount.setText(String.valueOf(xcount));
 	}
-	else if(b1==1 && b6==1 && b9==1)
+	else if(b3==1 && b6==1 && b9==1)
 	{
 		JOptionPane.showMessageDialog(null, "Player X is Winner");
 		xcount++;
@@ -98,7 +98,7 @@ public void winGame()
 		xcount++;
 		txtXcount.setText(String.valueOf(xcount));
 	}
-	else if(b3==1 && b6==1 && b7==1)
+	else if(b3==1 && b5==1 && b7==1)
 	{
 		JOptionPane.showMessageDialog(null, "Player X is Winner");
 		xcount++;
@@ -137,7 +137,7 @@ public void winGame()
 		ocount++;
 		txtOcount.setText(String.valueOf(ocount));
 	}
-	else if(b1==0 && b6==0 && b9==0)
+	else if(b3==0 && b6==0 && b9==0)
 	{
 		JOptionPane.showMessageDialog(null, "Player O is Winner");
 		ocount++;
@@ -149,7 +149,7 @@ public void winGame()
 		ocount++;
 		txtOcount.setText(String.valueOf(ocount));
 	}
-	else if(b3==0 && b6==0 && b7==0)
+	else if(b3==0 && b5==0 && b7==0)
 	{
 		JOptionPane.showMessageDialog(null, "Player O is Winner");
 		ocount++;
