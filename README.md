@@ -10,3 +10,9 @@ Screenshots -
 
 ![image](https://github.com/sparshag832/Tic_Tac_Toe_Java/assets/84582301/a36871fc-1fd9-464e-8a16-3d16ce4a84b6)
 
+![image](https://github.com/sparshag832/Tic_Tac_Toe_Java/assets/84582301/8cbedfa6-919e-4b36-aa3c-d2b989fb711e)
+
+
+![image](https://github.com/sparshag832/Tic_Tac_Toe_Java/assets/84582301/20aa4fb7-b7c8-4d0c-8d33-cc63f0bffe1f)
+
+![image](https://github.com/sparshag832/Tic_Tac_Toe_Java/assets/84582301/2535a40d-fe71-4cd2-a96e-03bccd2e05c4)
